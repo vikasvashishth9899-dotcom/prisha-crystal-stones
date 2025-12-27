@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Prisha Crystal & Stones</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Prisha Crystal & Stones</h1>
+  <p>Healing Crystals | Stone Bracelets | Chakra Products</p>
+</header>
+
+<section class="hero">
+  <h2>Natural Healing Crystals & Stone Jewelry</h2>
+  <p>Authentic crystal bracelets, pendants & chakra items</p>
+  <a href="https://wa.me/919899818889" class="btn">Order on WhatsApp</a>
+</section>
+
+<section class="products">
+  <h2>Our Products</h2>
+  <ul>
+    <li>Crystal Bracelets</li>
+    <li>Healing Pendants</li>
+    <li>7 Chakra Trees</li>
+    <li>Tumble Stones</li>
+    <li>Pyrite & Money Stones</li>
+    <li>Clear Quartz & Amethyst</li>
+  </ul>
+</section>
+
+<section class="about">
+  <h2>About Us</h2>
+  <p>
+    Prisha Crystal & Stones provides genuine crystals and stone jewelry
+    for positivity, healing and spiritual well-being.
+  </p>
+</section>
+
+<section class="contact">
+  <h2>Contact & Order</h2>
+  <p>📞 Mobile / WhatsApp: 9899818889</p>
+  <p>📷 Instagram: prisha_crystalstones</p>
+</section>
+
+<footer>
+  <p>© 2025 Prisha Crystal & Stones</p>
+</footer>
+
+</body>
+</html>

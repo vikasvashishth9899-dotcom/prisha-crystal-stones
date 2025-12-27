@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #faf7ff;
+  color: #333;
+}
+
+header {
+  background: #6b21a8;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.hero {
+  text-align: center;
+  padding: 40px;
+}
+
+.btn {
+  display: inline-block;
+  background: #6b21a8;
+  color: white;
+  padding: 12px 20px;
+  text-decoration: none;
+  border-radius: 6px;
+}
+
+.products, .about, .contact {
+  padding: 30px;
+  text-align: center;
+}
+
+.products ul {
+  list-style: none;
+  padding: 0;
+}
+
+.products li {
+  background: white;
+  margin: 10px auto;
+  padding: 10px;
+  max-width: 300px;
+  border-radius: 6px;
+}
+
+footer {
+  background: #eee;
+  text-align: center;
+  padding: 10px;
+}
